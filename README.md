@@ -1,21 +1,10 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20983
-Fork on GitHub
-6496
 
-back to edit
 
-copy-markdown
 
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm RUSHIL SHARMA</h1>
-<h3 align="center">A passionate Data & Business Analyst from India</h3>
+<h3 align="center">As an data & business analyst, I have worked on project involving data cleaning , data visulization , dashboard creation , report generation , company lead , lead generation using many tools such as python and its packagae like numpy , pandas , matplotlib and seaborn and also I am gain 5 star for sql , powerBI , Excel.
+
+What i'm doing</h3>
 
 <p align="left"> <a href="https://twitter.com/rushil347" target="blank"><img src="https://img.shields.io/twitter/follow/rushil347?logo=twitter&style=for-the-badge" alt="rushil347" /></a> </p>
 
@@ -39,27 +28,3 @@ markdown
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushil2005&show_icons=true&locale=en" alt="rushil2005" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
