@@ -1,14 +1,11 @@
-
-
-
-<h1 align="center">Hi 👋, I'm RUSHIL SHARMA</h1>
-<h3 align="center">As an data & business analyst, I have worked on project involving data cleaning , data visulization , dashboard creation , report generation , company lead , lead generation using many tools such as python and its packagae like numpy , pandas , matplotlib and seaborn and also I am gain 5 star for sql , powerBI , Excel.
-
-What i'm doing</h3>
+<h1 align="center">Hi 👋, I'm Rushil Sharma</h1>
+<h3 align="center">As an Data & Business Analyst, I am working on project involving data cleaning , data visulization , dashboard creation , report generation , company lead , lead generation using many tools such as python and its packagae like numpy , pandas , matplotlib and seaborn and also I am gain 5 star for sql , powerBI , Excel.</h3>
 
 <p align="left"> <a href="https://twitter.com/rushil347" target="blank"><img src="https://img.shields.io/twitter/follow/rushil347?logo=twitter&style=for-the-badge" alt="rushil347" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://rushilsharma.netlify.app](https://rushilsharma.netlify.app)
+- 🌱 I’m currently learning **Machine Learning**
+
+- 💬 Ask me about **Sql , Python , PowerBI**
 
 - 📫 How to reach me **rushilsharma889@gmail.com**
 
@@ -23,8 +20,3 @@ What i'm doing</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushil2005&show_icons=true&locale=en&layout=compact" alt="rushil2005" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushil2005&show_icons=true&locale=en" alt="rushil2005" /></p>
-
