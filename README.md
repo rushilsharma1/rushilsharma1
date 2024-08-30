@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushil Sharma</h1>
-<h3 align="center">As an Data & Business Analyst, I am working on project involving data cleaning , data visulization , dashboard creation , report generation , company lead , lead generation using many tools such as python and its packagae like numpy , pandas , matplotlib and seaborn and also I am gain 5 star for sql , powerBI , Excel.</h3>
+<h3 align="center">As an Data & Business Analyst, I am working on project involving data cleaning , data visulization , dashboard creation , report generation , company lead , lead generation using many tools such as python and its packagae like numpy , pandas , matplotlib and seaborn , sql , powerBI , excel and also I have gain 5 star for sql , 3 star for python.</h3>
 
 <p align="left"> <a href="https://twitter.com/rushil347" target="blank"><img src="https://img.shields.io/twitter/follow/rushil347?logo=twitter&style=for-the-badge" alt="rushil347" /></a> </p>
 
