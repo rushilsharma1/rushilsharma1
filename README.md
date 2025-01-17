@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/rushil347" target="blank"><img src="https://img.shields.io/twitter/follow/rushil347?logo=twitter&style=for-the-badge" alt="rushil347" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Apache**
 
-- 💬 Ask me about **Sql , Python , Tableau**
+- 💬 Ask me about **Data Analytics & Data Engineering**
 
 - 📫 How to reach me **rushilsharma889@gmail.com**
 
